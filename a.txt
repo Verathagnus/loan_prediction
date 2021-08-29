@@ -1,0 +1,63 @@
+,0
+Customer ID,object
+Name,object
+Age,int64
+Income (USD),float64
+Loan Amount Request (USD),float64
+Current Loan Expenses (USD),float64
+Dependents,float64
+Credit Score,float64
+No. of Defaults,int64
+Property ID,int64
+Property Age,float64
+Property Price,float64
+Gender0,float64
+Gender1,float64
+Income Stability0,float64
+Income Stability1,float64
+Profession0,float64
+Profession1,float64
+Profession2,float64
+Profession3,float64
+Profession4,float64
+Profession5,float64
+Profession6,float64
+Profession7,float64
+Type of Employment0,float64
+Type of Employment1,float64
+Type of Employment2,float64
+Type of Employment3,float64
+Type of Employment4,float64
+Type of Employment5,float64
+Type of Employment6,float64
+Type of Employment7,float64
+Type of Employment8,float64
+Type of Employment9,float64
+Type of Employment10,float64
+Type of Employment11,float64
+Type of Employment12,float64
+Type of Employment13,float64
+Type of Employment14,float64
+Type of Employment15,float64
+Type of Employment16,float64
+Type of Employment17,float64
+Location0,float64
+Location1,float64
+Location2,float64
+Expense Type 10,float64
+Expense Type 11,float64
+Expense Type 20,float64
+Expense Type 21,float64
+Has Active Credit Card0,float64
+Has Active Credit Card1,float64
+Has Active Credit Card2,float64
+Property Type0,float64
+Property Type1,float64
+Property Type2,float64
+Property Type3,float64
+Property Location0,float64
+Property Location1,float64
+Property Location2,float64
+Co-Applicant0,float64
+Co-Applicant1,float64
+Co-Applicant2,float64

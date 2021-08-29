@@ -1,0 +1,63 @@
+,0
+Customer ID,False
+Name,False
+Age,False
+Income (USD),False
+Loan Amount Request (USD),False
+Current Loan Expenses (USD),False
+Dependents,False
+Credit Score,False
+No. of Defaults,False
+Property ID,False
+Property Age,False
+Property Price,False
+Gender0,False
+Gender1,False
+Income Stability0,False
+Income Stability1,False
+Profession0,False
+Profession1,False
+Profession2,False
+Profession3,False
+Profession4,False
+Profession5,False
+Profession6,False
+Profession7,False
+Type of Employment0,False
+Type of Employment1,False
+Type of Employment2,False
+Type of Employment3,False
+Type of Employment4,False
+Type of Employment5,False
+Type of Employment6,False
+Type of Employment7,False
+Type of Employment8,False
+Type of Employment9,False
+Type of Employment10,False
+Type of Employment11,False
+Type of Employment12,False
+Type of Employment13,False
+Type of Employment14,False
+Type of Employment15,False
+Type of Employment16,False
+Type of Employment17,False
+Location0,False
+Location1,False
+Location2,False
+Expense Type 10,False
+Expense Type 11,False
+Expense Type 20,False
+Expense Type 21,False
+Has Active Credit Card0,False
+Has Active Credit Card1,False
+Has Active Credit Card2,False
+Property Type0,False
+Property Type1,False
+Property Type2,False
+Property Type3,False
+Property Location0,False
+Property Location1,False
+Property Location2,False
+Co-Applicant0,False
+Co-Applicant1,False
+Co-Applicant2,False
